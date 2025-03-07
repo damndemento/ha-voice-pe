@@ -18,7 +18,7 @@ substitutions:
   hidden_ssid: "false"
 
 esphome:
-  name: home-assistant-voice
+  name: ha-voice-pe
   friendly_name: Home Assistant Voice
   name_add_mac_suffix: true
   min_version: 2025.2.0
